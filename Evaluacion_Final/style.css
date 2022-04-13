@@ -1,0 +1,13 @@
+.yo img {
+  width: 130px;
+  height: 130px;
+  margin: auto;    
+  display: block;
+ 
+}
+
+.card {
+  width: 10% !important;
+  height: 10% !important;
+ 
+}
